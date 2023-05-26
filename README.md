@@ -1,5 +1,5 @@
 # TC3002B
 
-En este proyecto, se llevará a cabo la codificación de un modelo de red neuronal convolucional con el objetivo de identificar entre dos tipos diferentes de café: espresso y longblack. Para ello, se utilizará un dataset creado por "Philippe - Kangaroo.AI", el cual consta de 400 imágenes.
+En este proyecto, se desarrollará un modelo de red neuronal convolucional para realizar una clasificación binaria. El objetivo es distinguir entre dos tipos de café: espresso y longblack. Para este propósito, se utilizará un dataset creado por "Philippe - Kangaroo.AI", que consta de 400 imágenes recortadas para ajustarse a una proporción de 1:1 y exportadas a un tamaño de 256x256 píxeles.
 
 Análisis de dataset: https://www.kaggle.com/datasets/filhypedeeplearning/coffee-images?resource=download
